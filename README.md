@@ -2,7 +2,7 @@
  옆에 보이는 개는 쉬고 있으면 저런 표정을 짓습니다 😆
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donidodni&thema=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donidodni&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
